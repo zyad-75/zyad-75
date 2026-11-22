@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Zyad Nabil - AI & Machine Learning Engineer" width="100%" />
+  <img src="./banner.svg" alt="Zyad Nabil - AI & Machine Learning Engineer" width="100%" \>
 </div><div align="center">
 
 # 👋 Hi, I'm Zyad Nabil!
